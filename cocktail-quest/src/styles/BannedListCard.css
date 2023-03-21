@@ -1,0 +1,24 @@
+.banned-list-card-body {
+    height: 40rem;
+    overflow-y: scroll;
+    scrollbar-color: #f5f5f5 #f5f5f5;
+    scrollbar-width: thin;
+}
+
+.banned-header {
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+
+.category,
+.alcoholic,
+.glass {
+    margin: 1rem;
+}
+
+.banned-list-row {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+}

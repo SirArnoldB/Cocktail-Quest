@@ -1,0 +1,15 @@
+.ingredients-card-body {
+    height: 300px;
+    overflow-y: scroll;
+    scrollbar-color: #f5f5f5 #f5f5f5;
+    scrollbar-width: thin;
+}
+
+.ingredients-card {
+    background-color: #4b4db7a8;
+}
+
+.ingredients-header {
+    font-size: 1rem;
+    color: aliceblue;
+}

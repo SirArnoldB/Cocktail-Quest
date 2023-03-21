@@ -1,0 +1,11 @@
+.instructions-card-body {
+    height: 300px;
+    overflow-y: scroll;
+    scrollbar-color: #f5f5f5 #f5f5f5 !important;
+    scrollbar-width: thin !important;
+}
+
+.instructions-header {
+    font-size: 1rem;
+    color: aliceblue;
+}

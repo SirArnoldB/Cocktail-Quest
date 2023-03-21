@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.explore-card,
+.seen-cocktails,
+.banned-list {
+  align-self: center;
+}
+
+.cocktail-header {
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: 2rem;
+  color: #646cff;
+}
+
+.cocktail-header>h5 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: aliceblue;
+  background-color: #6060df52;
+}
