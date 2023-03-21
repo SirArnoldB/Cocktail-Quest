@@ -1,4 +1,4 @@
-# Web Development Project 4 - *Cocktail Quest*
+# Web Development Project 4 - _Cocktail Quest_
 
 Submitted by: **Arnold Bhebhe**
 
@@ -24,26 +24,24 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Clicking on an attribute in Banned list removes the attribute from the banned list
-* [x] Users can click on an ingredient in the ingredients list to add it to the banned list   
-* [x] Users can specify their language of choice for displaying instructions
+- [x] The Banned List does not allow duplicates - an attribute can only be added once to the ban list
+- [x] Clicking on an attribute in Banned list removes the attribute from the banned list
+- [x] Users can click on an ingredient in the ingredients list to add it to the banned list
+- [x] Users can specify their language of choice for displaying instructions
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/SirArnoldB/Cocktail-Quest/blob/main/Cocktail-Quest.gif' title='Cocktail Quest Walkthrough' width='' alt='Cocktail Quest Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<!-- GIF Tool Used -->
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-- Implementing filter functionality using The CocktailDB API.  
+- Implementing filter functionality using The CocktailDB API.
 
 ## License
 
